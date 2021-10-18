@@ -9,7 +9,7 @@ function Header() {
     <Navbar collapseOnSelect expand="md" className="navbar-wrapper">
       <Navbar.Brand href="/">
         <img src={Logo} className="d-inline-block align-top brand-image" />
-        ciPARTHENON Docs
+        <span className="font-aesthetics">ciPARTHENON Docs</span>
          
       </Navbar.Brand>
       <Navbar.Toggle aria-controls="responsive-navbar-nav" />

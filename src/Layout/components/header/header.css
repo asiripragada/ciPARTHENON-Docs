@@ -47,12 +47,9 @@
   border-top: 2px solid #fbaf3a;
   border-bottom: 1px solid silver;
 }
-.font-size {
-  font-size: 15px;
-}
-.bold-text {
-  font-weight: bold;
-}
-.italic-text {
+.font-aesthetics {
+  font-size: 25px;
+  font-weight: bolder;
   font-style: italic;
 }
+
