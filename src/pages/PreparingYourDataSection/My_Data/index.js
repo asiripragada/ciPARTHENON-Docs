@@ -24,9 +24,9 @@ export const MyData = () => {
       <img src={image2} className="imageClass" />
       
       <p>
-      When a data set is selected in the Data Tab, a menu bar will appear at the bottom, granting the user access to several options. The options can be seen below: </p>
+      When a data set is selected in the Data Tab, a menu bar will appear at the bottom, granting the user access to several options. The options can be seen below:
       
-      <p>
+    
         <li><span className="bold-text">Properties</span></li>
         <li><span className="bold-text">Schedule</span></li>
         <li><span className="bold-text">Security</span></li>
